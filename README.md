@@ -15,26 +15,39 @@ Key Performance Indicators (KPIs)
 Based on the dataset calculations:
 
 •	Total Revenue: $817,860.05
+
 •	Total Pizzas Sold: 49,574
+
 •	Total Orders: 21,350
+
 •	Average Order Value (AOV): $38.31
+
 •	Average Pizzas Per Order: 2.32
+
 
 Insights & Analysis
 
-1.	Daily & Hourly Trends: 
+1.	Daily & Hourly Trends:
+
   o	Peak Days: Friday and Saturday experience the highest order volume and total sales.
+  
   o	Peak Hours: Maximum orders occur during lunch (12:00 PM – 1:00 PM) and dinner (6:00 PM – 8:00 PM).
-2.	Category Performance: 
+3.	Category Performance: 
+ 
   o	Classic Category leads overall sales volume and revenue, followed closely by Supreme and Chicken.
-3.	Size Contribution: 
+4.	Size Contribution: 
+ 
   o	Large and Medium sizes account for the vast majority of total sales revenue.
-4.	Top & Bottom Performers: 
+5.	Top & Bottom Performers: 
+ 
   o	Top Sellers: The Classic Deluxe Pizza, The Hawaiian Pizza, and The Pepperoni Pizza.
+ 
   o	Bottom Sellers: The Brie Carre Pizza (lowest overall sales and quantity).
 
 Tools & Technologies
+
 •	Microsoft Excel: Data storage, data cleaning, pivot tables, KPI summary sheets, and preliminary visualization charts.
+
 •	Structured Query Language (SQL): Aggregations, metric verification, data transformation, and relational queries.
 
 Project setup & usage
