@@ -29,23 +29,23 @@ Insights & Analysis
 
 1.	Daily & Hourly Trends:
 
-  o	Peak Days: Friday and Saturday experience the highest order volume and total sales.
+      o	Peak Days: Friday and Saturday experience the highest order volume and total sales.
   
-  o	Peak Hours: Maximum orders occur during lunch (12:00 PM – 1:00 PM) and dinner (6:00 PM – 8:00 PM).
+      o	Peak Hours: Maximum orders occur during lunch (12:00 PM – 1:00 PM) and dinner (6:00 PM – 8:00 PM).
   
 2.	Category Performance: 
  
-  o	Classic Category leads overall sales volume and revenue, followed closely by Supreme and Chicken.
+      o	Classic Category leads overall sales volume and revenue, followed closely by Supreme and Chicken.
   
 3.	Size Contribution: 
  
-  o	Large and Medium sizes account for the vast majority of total sales revenue.
+      o	Large and Medium sizes account for the vast majority of total sales revenue.
   
 4.	Top & Bottom Performers: 
  
-  o	Top Sellers: The Classic Deluxe Pizza, The Hawaiian Pizza, and The Pepperoni Pizza.
+      o	Top Sellers: The Classic Deluxe Pizza, The Hawaiian Pizza, and The Pepperoni Pizza.
  
-  o	Bottom Sellers: The Brie Carre Pizza (lowest overall sales and quantity).
+      o	Bottom Sellers: The Brie Carre Pizza (lowest overall sales and quantity).
   
 
 Tools & Technologies
