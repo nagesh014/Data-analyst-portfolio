@@ -32,17 +32,21 @@ Insights & Analysis
   o	Peak Days: Friday and Saturday experience the highest order volume and total sales.
   
   o	Peak Hours: Maximum orders occur during lunch (12:00 PM – 1:00 PM) and dinner (6:00 PM – 8:00 PM).
-3.	Category Performance: 
+  
+2.	Category Performance: 
  
   o	Classic Category leads overall sales volume and revenue, followed closely by Supreme and Chicken.
-4.	Size Contribution: 
+  
+3.	Size Contribution: 
  
   o	Large and Medium sizes account for the vast majority of total sales revenue.
-5.	Top & Bottom Performers: 
+  
+4.	Top & Bottom Performers: 
  
   o	Top Sellers: The Classic Deluxe Pizza, The Hawaiian Pizza, and The Pepperoni Pizza.
  
   o	Bottom Sellers: The Brie Carre Pizza (lowest overall sales and quantity).
+  
 
 Tools & Technologies
 
@@ -51,13 +55,21 @@ Tools & Technologies
 •	Structured Query Language (SQL): Aggregations, metric verification, data transformation, and relational queries.
 
 Project setup & usage
+
 Excel File:
+
 •	Open pizza_sales excel file(AutoRecovered).xlsx in Microsoft Excel.
+
 •	View worksheet Sheet2 for summary metrics and Sheet3 for daily breakdown pivot tables.
+
 SQL Execution:
+
 •	Import the pizza_sales.db into standard SQL environments (e.g., MySQL, PostgreSQL, MS SQL Server).
+
 •	Execute queries provided in the SQL Queries section to recreate the KPI metrics.
 
+
 Dashboard Screenshot
+
 <img width="1178" height="655" alt="Screenshot 2026-09-10 174350" src="https://github.com/user-attachments/assets/2e64e0a0-ab0e-4499-9962-a802a0c6d579" />
 
