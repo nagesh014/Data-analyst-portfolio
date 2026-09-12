@@ -58,7 +58,7 @@ Project setup & usage
 
 Excel File:
 
-•	Open pizza_sales excel file(AutoRecovered).xlsx in Microsoft Excel.
+•	Open Copy of pizza_sales_excel_file(AutoRecovered)(1).xlsx in Microsoft Excel.
 
 •	View worksheet Sheet2 for summary metrics and Sheet3 for daily breakdown pivot tables.
 
