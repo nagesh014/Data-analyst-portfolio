@@ -69,7 +69,7 @@ SQL Execution:
 •	Execute queries provided in the SQL Queries section to recreate the KPI metrics.
 
 
-Dashboard ScreenshoT
+Dashboard Screenshot
 
 
 <img width="1167" height="656" alt="Screenshot 2026-09-12 234155" src="https://github.com/user-attachments/assets/c654927d-0838-4f40-a7d0-f7e74134d735" />
