@@ -43,7 +43,7 @@ Insights & Analysis
   
 4.	Top & Bottom Performers: 
  
-      o	Top Sellers: The Classic Deluxe Pizza, The Hawaiian Pizza, and The Pepperoni Pizza.
+      o	Top Sellers: The Classic Deluxe Pizza, The Barbecue Chicken Pizza, and The Hawaiian Pizza.
  
       o	Bottom Sellers: The Brie Carre Pizza (lowest overall sales and quantity).
   
